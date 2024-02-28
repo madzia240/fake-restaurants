@@ -2,35 +2,35 @@
     "restaurants": [
         {
             "id": 14,
-            "name": "PL Warszawa MDM",
+            "name": "PL Warszawa MDM"
         },
         {
             "id": 512,
-            "name": "PL Wroclaw Kromera",
+            "name": "PL Wroclaw Kromera"
         },
         {
             "id": 771,
-            "name": "PL Warszawa CH Promenada 66",
+            "name": "PL Warszawa CH Promenada 66"
         },
         {
             "id": 514,
-            "name": "PL Wrocław CH Borek",
+            "name": "PL Wrocław CH Borek"
         },
         {
             "id": 21,
-            "name": "PL Warszawa CH KEN Center",
+            "name": "PL Warszawa CH KEN Center"
         },
         {
             "id": 618,
-            "name": "PL Wrocław Pasaż Grunwaldzki",
+            "name": "PL Wrocław Pasaż Grunwaldzki"
         },
         {
             "id": 1028,
-            "name": "PL Czeladź M1 BP",
+            "name": "PL Czeladź M1 BP"
         },
         {
             "id": 515,
-            "name": "PL Wrocław Armii Krajowej",
+            "name": "PL Wrocław Armii Krajowej"
         }
     ]
 }
