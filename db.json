@@ -1,0 +1,4873 @@
+{
+    "restaurants": [
+        {
+            "id": 14,
+            "name": "PL KFC Warszawa MDM",
+            "geoLat": "52.223392",
+            "geoLng": "21.016280",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Piękna",
+            "addressStreetNo": "28/34",
+            "addressPostalCode": "00-547",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 512,
+            "name": "PL KFC Wroclaw Kromera",
+            "geoLat": "51.131685",
+            "geoLng": "17.061940",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": true,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Al. Marcina Kromera",
+            "addressStreetNo": "18",
+            "addressPostalCode": "51-163",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": true,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": true,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 771,
+            "name": "PL KFC Warszawa CH Promenada 66",
+            "geoLat": "52.231753",
+            "geoLng": "21.105024",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Ostrobramska",
+            "addressStreetNo": "73C",
+            "addressPostalCode": "04-175",
+            "filters": [
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "21:30",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 514,
+            "name": "PL KFC Wrocław CH Borek",
+            "geoLat": "51.088337",
+            "geoLng": "16.999072",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Hallera",
+            "addressStreetNo": "52",
+            "addressPostalCode": "50-984",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "22:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "PL KFC Warszawa CH KEN Center",
+            "geoLat": "52.154077",
+            "geoLng": "21.041393",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Ciszewskiego",
+            "addressStreetNo": "15",
+            "addressPostalCode": "02-777",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:01",
+                    "openTo": "22:03",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 618,
+            "name": "PL KFC Wrocław Pasaż Grunwaldzki",
+            "geoLat": "51.112730",
+            "geoLng": "17.059012",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "pl. Grunwaldzki",
+            "addressStreetNo": "22",
+            "addressPostalCode": "50-368",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "22:30",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 1028,
+            "name": "PL KFC Czeladź M1 BP",
+            "geoLat": "50.3221896",
+            "geoLng": "19.1006353",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Czeladz",
+            "addressStreet": "Bedzinska",
+            "addressStreetNo": "86",
+            "addressPostalCode": "41-250",
+            "filters": [
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:30",
+                    "openTo": "23:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 515,
+            "name": "PL KFC Wrocław Armii Krajowej",
+            "geoLat": "51.083692",
+            "geoLng": "17.051095",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Bardzka",
+            "addressStreetNo": "6-20",
+            "addressPostalCode": "50-517",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "PL KFC Warszawa Powsińska",
+            "geoLat": "52.186121",
+            "geoLng": "21.063792",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Powsińska",
+            "addressStreetNo": "25",
+            "addressPostalCode": "02-920",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 864,
+            "name": "PL KFC Wrocław CH Arkady",
+            "geoLat": "51.099326",
+            "geoLng": "17.028834",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": false,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Powstańców Śląskich",
+            "addressStreetNo": "2-4",
+            "addressPostalCode": "53-333",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:30",
+                    "openTo": "21:30",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 875,
+            "name": "PL KFC Wrocław Jana III Sobieskiego",
+            "geoLat": "51.145697",
+            "geoLng": "17.105044",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Al Jana III Sobieskiego",
+            "addressStreetNo": "5",
+            "addressPostalCode": "51-301",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "PL KFC Warszawa Galaxy",
+            "geoLat": "52.242308",
+            "geoLng": "20.993889",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Al. Solidarności",
+            "addressStreetNo": "82",
+            "addressPostalCode": "00-145",
+            "filters": [
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "PL KFC Warszawa Ursynów 3",
+            "geoLat": "52.145062",
+            "geoLng": "21.043035",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Dereniowa",
+            "addressStreetNo": "9",
+            "addressPostalCode": "02-776",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "23:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 895,
+            "name": "PL KFC Ełk Brama Mazur",
+            "geoLat": "53.823102",
+            "geoLng": "22.361011",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Plac Miejski",
+            "addressStreet": "Ełk",
+            "addressStreetNo": "1",
+            "addressPostalCode": "19-300",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:30",
+                    "openTo": "21:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PL KFC Warszawa Górczewska",
+            "geoLat": "52.238602",
+            "geoLng": "20.946694",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Górczewska",
+            "addressStreetNo": "93",
+            "addressPostalCode": "01-401",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": true,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:30",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 1153,
+            "name": "PL KFC Lublin LSM",
+            "geoLat": "51.352527",
+            "geoLng": "51.352527",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": true,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Lublin",
+            "addressStreet": "Zana",
+            "addressStreetNo": "12",
+            "addressPostalCode": "20-609",
+            "filters": [
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "19:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 755,
+            "name": "PL KFC Wrocław Rynek",
+            "geoLat": "51.107571",
+            "geoLng": "17.032077",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Świdnicka",
+            "addressStreetNo": "13",
+            "addressPostalCode": "50-066",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "00:00",
+                    "openTo": "23:59",
+                    "open24h": true
+                }
+            ]
+        },
+        {
+            "id": 1126,
+            "name": "PL KFC Kierzno Północ MOP S8",
+            "geoLat": "51.3229225",
+            "geoLng": "18.0662426",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": false,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Kierzno",
+            "addressStreet": "MOP S8",
+            "addressStreetNo": "124",
+            "addressPostalCode": "63-600",
+            "filters": [
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "06:01",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 1086,
+            "name": "PL KFC Wrocław Żmigrodzka",
+            "geoLat": "51.1437502",
+            "geoLng": "17.0312826",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wroclaw",
+            "addressStreet": "Zmigrodzka",
+            "addressStreetNo": "105/117",
+            "addressPostalCode": "51-130",
+            "filters": [
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": true,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:30",
+                    "openTo": "00:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 510,
+            "name": "PL KFC Poznań CH Plaza",
+            "geoLat": "52.437994",
+            "geoLng": "16.921322",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Poznań",
+            "addressStreet": "Ks. Mieszka I",
+            "addressStreetNo": "26",
+            "addressPostalCode": "61-689",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "02:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 777,
+            "name": "PL KFC Warszawa Zodiak",
+            "geoLat": "52.231104",
+            "geoLng": "21.012097",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Widok",
+            "addressStreetNo": "26",
+            "addressPostalCode": "00-023",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 762,
+            "name": "PL KFC Warszawa Dantex",
+            "geoLat": "52.230731",
+            "geoLng": "21.017364",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Al. Jerozolimskie",
+            "addressStreetNo": "11/19",
+            "addressPostalCode": "00-508",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 898,
+            "name": "PL KFC Ostrołęka Galeria Bursztynowa",
+            "geoLat": "53.075577",
+            "geoLng": "21.578647",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Ostrołęka",
+            "addressStreet": "Gorbatowa",
+            "addressStreetNo": "28",
+            "addressPostalCode": "07-410",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "21:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 828,
+            "name": "PL KFC Gliwice Rondo",
+            "geoLat": "50.266461",
+            "geoLng": "18.711729",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Gliwice",
+            "addressStreet": "Okrężna",
+            "addressStreetNo": "32a",
+            "addressPostalCode": "44-100",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": true,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "00:00",
+                    "openTo": "23:59",
+                    "open24h": true
+                }
+            ]
+        },
+        {
+            "id": 935,
+            "name": "PL KFC Wrocław Wroclavia",
+            "geoLat": "51.0967152",
+            "geoLng": "17.03415029",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Sucha",
+            "addressStreetNo": "1",
+            "addressPostalCode": "50-086",
+            "filters": [
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "22:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 776,
+            "name": "PL KFC Warszawa Aleja Solidarności",
+            "geoLat": "52.245052",
+            "geoLng": "21.001820",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Al. Solidarności",
+            "addressStreetNo": "68A",
+            "addressPostalCode": "00-240",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "23:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 874,
+            "name": "PL KFC Warszawa Wola Park New",
+            "geoLat": "52.241684",
+            "geoLng": "20.933163",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": false,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Górczewska",
+            "addressStreetNo": "124",
+            "addressPostalCode": "01-460",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:30",
+                    "openTo": "22:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 768,
+            "name": "PL KFC Warszawa Puławska",
+            "geoLat": "52.152149",
+            "geoLng": "21.016811",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Puławska",
+            "addressStreetNo": "274",
+            "addressPostalCode": "02-819",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 928,
+            "name": "PL KFC Warszawa Galeria Północna",
+            "geoLat": "52.3188262",
+            "geoLng": "20.9653645",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Światowida",
+            "addressStreetNo": "17",
+            "addressPostalCode": "03-144",
+            "filters": [
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "10:00",
+                    "openTo": "22:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 832,
+            "name": "PL KFC Zgorzelec Słowiańska",
+            "geoLat": "51.160331",
+            "geoLng": "15.027794",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Zgorzelec",
+            "addressStreet": "Słowiańska",
+            "addressStreetNo": "5a",
+            "addressPostalCode": "59-900",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 860,
+            "name": "PL KFC Warszawa Galeria Mokotów",
+            "geoLat": "52.179703",
+            "geoLng": "21.004444",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Wołoska",
+            "addressStreetNo": "12",
+            "addressPostalCode": "02-675",
+            "filters": [
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "22:30",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 596,
+            "name": "PL KFC Bielsko-Biała Cyniarska",
+            "geoLat": "49.824166",
+            "geoLng": "19.050192",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Bielsko-Biała",
+            "addressStreet": "Cyniarska",
+            "addressStreetNo": "11",
+            "addressPostalCode": "43-300",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "23:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 883,
+            "name": "PL KFC Gliwice CH Forum",
+            "geoLat": "50.300123",
+            "geoLng": "18.682583",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Gliwice",
+            "addressStreet": "Lipowa",
+            "addressStreetNo": "1",
+            "addressPostalCode": "44-100",
+            "filters": [
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "22:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 1036,
+            "name": "PL KFC Piekary Śląskie Orlen",
+            "geoLat": "50.3720164",
+            "geoLng": "18.9342013",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Piekary Śląskie",
+            "addressStreet": "Karola Miarki",
+            "addressStreetNo": "13e",
+            "addressPostalCode": "41-940",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": true,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "PL KFC Warszawa Modlińska",
+            "geoLat": "52.314486",
+            "geoLng": "20.977782",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Modlińska",
+            "addressStreetNo": "144",
+            "addressPostalCode": "03-170",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "PL KFC Warszawa Wileńska",
+            "geoLat": "52.255008",
+            "geoLng": "21.037523",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Targowa",
+            "addressStreetNo": "72",
+            "addressPostalCode": "03-734",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "22:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "PL KFC Warszawa Saska Kępa",
+            "geoLat": "52.231886",
+            "geoLng": "21.058337",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Zwycięzców",
+            "addressStreetNo": "30/32",
+            "addressPostalCode": "03-938",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "21:30",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 516,
+            "name": "PL KFC Bielany Wrocławskie",
+            "geoLat": "51.046525",
+            "geoLng": "16.965027",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Tyniecka",
+            "addressStreetNo": "4a",
+            "addressPostalCode": "52-407",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": true,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "06:01",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 527,
+            "name": "PL KFC Gdańsk Zaspa",
+            "geoLat": "54.403469",
+            "geoLng": "18.610960",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Gdańsk",
+            "addressStreet": "Al. Jana Pawła II",
+            "addressStreetNo": "19",
+            "addressPostalCode": "80-462",
+            "filters": [
+                {
+                    "key": "garden",
+                    "available": true,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 534,
+            "name": "PL KFC Katowice Alpejska",
+            "geoLat": "50.244889",
+            "geoLng": "19.032712",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Katowice",
+            "addressStreet": "Alpejska",
+            "addressStreetNo": "1",
+            "addressPostalCode": "40-506",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 591,
+            "name": "PL KFC Wrocław CH Magnolia",
+            "geoLat": "51.118908",
+            "geoLng": "16.988989",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Legnicka",
+            "addressStreetNo": "58",
+            "addressPostalCode": "54-204",
+            "filters": [
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "22:30",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 750,
+            "name": "PL KFC Toruń Grudziądzka",
+            "geoLat": "53.030905",
+            "geoLng": "18.610747",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Toruń",
+            "addressStreet": "Grudziądzka",
+            "addressStreetNo": "124",
+            "addressPostalCode": "87-100",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 758,
+            "name": "PL KFC Szczecin Casino",
+            "geoLat": "53.429567",
+            "geoLng": "14.483410",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Szczecin",
+            "addressStreet": "Ku Słońcu",
+            "addressStreetNo": "67",
+            "addressPostalCode": "71-047",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "22:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 764,
+            "name": "PL KFC Płońsk",
+            "geoLat": "52.614974",
+            "geoLng": "20.386527",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Płońsk",
+            "addressStreet": "Warszawska",
+            "addressStreetNo": "61",
+            "addressPostalCode": "09-100",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 815,
+            "name": "PL KFC Warszawa Trakt Brzeski",
+            "geoLat": "52.222494",
+            "geoLng": "21.243753",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Trakt Brzeski",
+            "addressStreetNo": "100",
+            "addressPostalCode": "05-077",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 880,
+            "name": "PL KFC Warszawa DT Głębocka",
+            "geoLat": "52.301943",
+            "geoLng": "21.055338",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Głębocka",
+            "addressStreetNo": "15",
+            "addressPostalCode": "03-287",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "garden",
+                    "available": true,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 1068,
+            "name": "PL KFC Wrocław N-Park Maślice",
+            "geoLat": "51.157636",
+            "geoLng": "16.920207",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Maślicka",
+            "addressStreetNo": "216",
+            "addressPostalCode": "54-104",
+            "filters": [
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "23:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 1060,
+            "name": "PL KFC Wrocław Dokerska",
+            "geoLat": "51.138781",
+            "geoLng": "16.964905",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Dokerska",
+            "addressStreetNo": "2a",
+            "addressPostalCode": "54-142",
+            "filters": [
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:30",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 1063,
+            "name": "PL KFC Warszawa Galeria Młociny",
+            "geoLat": "52.2966933",
+            "geoLng": "20.9297854",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Zgrupowanie AK Kampinos",
+            "addressStreetNo": "15",
+            "addressPostalCode": "01-943",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "10:00",
+                    "openTo": "22:30",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 1128,
+            "name": "PL KFC Warszawa Reduta",
+            "geoLat": "52.212462",
+            "geoLng": "20.952193",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "al. Jerozolimskie",
+            "addressStreetNo": "148",
+            "addressPostalCode": "02-326",
+            "filters": [
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "22:30",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 1129,
+            "name": "PL KFC Zgierz Armii Krajowej",
+            "geoLat": "51.852631",
+            "geoLng": "19.407141",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Zgierz",
+            "addressStreet": "Al. Armii Krajowej",
+            "addressStreetNo": "16",
+            "addressPostalCode": "95-100",
+            "filters": [
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "00:00",
+                    "openTo": "23:59",
+                    "open24h": true
+                }
+            ]
+        },
+        {
+            "id": 1111,
+            "name": "PL KFC Kraków Nowosądecka",
+            "geoLat": "50.0210646",
+            "geoLng": "19.9781188",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": false,
+            "dineIn": false,
+            "restaurantType": "AMREST",
+            "addressCity": "Krakow",
+            "addressStreet": "Nowosadecka",
+            "addressStreetNo": "9",
+            "addressPostalCode": "30-683",
+            "filters": [
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:30",
+                    "openTo": "22:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PL KFC Warszawa Makro Jerozolimskie",
+            "geoLat": "52.201183",
+            "geoLng": "20.934592",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "AL. Jerozolimskie",
+            "addressStreetNo": "184",
+            "addressPostalCode": "02-486",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 513,
+            "name": "PL KFC Wrocław CH Korona",
+            "geoLat": "51.141834",
+            "geoLng": "17.087445",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Krzywoustego",
+            "addressStreetNo": "126",
+            "addressPostalCode": "51-312",
+            "filters": [
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:30",
+                    "openTo": "22:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 617,
+            "name": "PL KFC Kielce Galeria Echo",
+            "geoLat": "50.880434",
+            "geoLng": "20.647564",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Kielce",
+            "addressStreet": "Świętokrzyska",
+            "addressStreetNo": "20",
+            "addressPostalCode": "25-001",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:30",
+                    "openTo": "21:30",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 760,
+            "name": "PL KFC Warszawa BP Jerozolimskie",
+            "geoLat": "52.215175",
+            "geoLng": "20.956243",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Al. Jerozolimskie",
+            "addressStreetNo": "144C",
+            "addressPostalCode": "02-305",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "01:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 505,
+            "name": "Testy automatyczne",
+            "geoLat": "52.342350",
+            "geoLng": "21.994455",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Podbipięty",
+            "addressStreetNo": "51",
+            "addressPostalCode": "02-732",
+            "filters": [
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:02",
+                    "openTo": "23:55",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 888,
+            "name": "PL KFC Wrocław PKP",
+            "geoLat": "51.098966",
+            "geoLng": "17.036820",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Wrocław",
+            "addressStreet": "Piłsudskiego",
+            "addressStreetNo": "105",
+            "addressPostalCode": "50-085",
+            "filters": [
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": true,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "06:01",
+                    "openTo": "02:00",
+                    "open24h": false
+                },
+                {
+                    "openFrom": "03:00",
+                    "openTo": "05:29",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 775,
+            "name": "PL KFC Warszawa CH Arkadia",
+            "geoLat": "52.257350",
+            "geoLng": "20.984647",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Al. Jana Pawła II",
+            "addressStreetNo": "82",
+            "addressPostalCode": "00-175",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "23:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 782,
+            "name": "PL KFC Warszawa CH Złote Tarasy",
+            "geoLat": "52.230097",
+            "geoLng": "21.002658",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Warszawa",
+            "addressStreet": "Zlota",
+            "addressStreetNo": "59",
+            "addressPostalCode": "00-120",
+            "filters": [
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "fillUp",
+                    "available": false,
+                    "description": "Wielka dolewka"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "22:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 897,
+            "name": "PL KFC Opole Solaris 2",
+            "geoLat": "50.670387",
+            "geoLng": "17.926245",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Opole",
+            "addressStreet": "Kopernika",
+            "addressStreetNo": "16",
+            "addressPostalCode": "45-040",
+            "filters": [
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": false,
+                    "description": "Pizza na kawałki"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "21:00",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 952,
+            "name": "PL KFC Stargard",
+            "geoLat": "53.342643",
+            "geoLng": "14.992981",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Stargard",
+            "addressStreet": "Szczecińska",
+            "addressStreetNo": "83",
+            "addressPostalCode": "73-100",
+            "filters": [
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "08:00",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 1066,
+            "name": "PL KFC Kraków Babińskiego",
+            "geoLat": "50.00736",
+            "geoLng": "19.882023",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Kraków",
+            "addressStreet": "Doktora Józefa Babińskiego",
+            "addressStreetNo": "54",
+            "addressPostalCode": "30-393",
+            "filters": [
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": true,
+                    "description": "Otwarta 24 godziny"
+                },
+                {
+                    "key": "driveThru",
+                    "available": true,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "garden",
+                    "available": false,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "wifi",
+                    "available": false,
+                    "description": "Wi-Fi"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "07:00",
+                    "openTo": "23:59",
+                    "open24h": false
+                }
+            ]
+        },
+        {
+            "id": 501,
+            "name": "PL KFC Kraków Nowa Huta",
+            "geoLat": "50.082370",
+            "geoLng": "20.022424",
+            "driveThru": false,
+            "garden": false,
+            "twentyFourHoursOpen": false,
+            "playground": false,
+            "wifi": false,
+            "fillUp": false,
+            "pizzaPieces": false,
+            "delivery": true,
+            "takeaway": false,
+            "takeout": true,
+            "dineIn": true,
+            "restaurantType": "AMREST",
+            "addressCity": "Kraków",
+            "addressStreet": "Os. Niepodległości",
+            "addressStreetNo": "3",
+            "addressPostalCode": "31-861",
+            "filters": [
+                {
+                    "key": "garden",
+                    "available": true,
+                    "description": "Ogródek"
+                },
+                {
+                    "key": "wifi",
+                    "available": true,
+                    "description": "Wi-Fi"
+                },
+                {
+                    "key": "fillUp",
+                    "available": true,
+                    "description": "Wielka dolewka"
+                },
+                {
+                    "key": "hasPizzaPieces",
+                    "available": true,
+                    "description": "Pizza na kawałki"
+                },
+                {
+                    "key": "driveThru",
+                    "available": false,
+                    "description": "Drive Thru"
+                },
+                {
+                    "key": "express",
+                    "available": false,
+                    "description": "Express"
+                },
+                {
+                    "key": "waiter_service",
+                    "available": false,
+                    "description": "Obsługa kelnerska"
+                },
+                {
+                    "key": "playground",
+                    "available": false,
+                    "description": "Plac Zabaw"
+                },
+                {
+                    "key": "twentyFourHoursOpen",
+                    "available": false,
+                    "description": "Otwarta 24 godziny"
+                }
+            ],
+            "openHours": [
+                {
+                    "openFrom": "09:00",
+                    "openTo": "23:00",
+                    "open24h": false
+                }
+            ]
+        }
+    ]
+}
